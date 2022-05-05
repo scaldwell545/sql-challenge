@@ -1,5 +1,7 @@
 # sql-challenge
 
+This is a quick project that attempts to evaluate employee project data of a mock corporation from the 1980s and 1990s using SQL and data modeling tools within Python.
+
 #### Data Modeling
 
 Inspect the CSVs and sketch out an ERD of the tables.
